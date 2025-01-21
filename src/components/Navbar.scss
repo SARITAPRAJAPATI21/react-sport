@@ -1,0 +1,32 @@
+@import "../../node_modules/bootstrap/scss/bootstrap";
+
+
+ /*
+.main,.collapse,.navbar-nav,.nav-item,.navbar-brand{
+ 
+ border: 2px solid green;
+  background-color: #553D1D;
+}
+  */
+  #main {
+    background-color: #553D1D!important;
+   
+}
+.navbar-brand img{
+  width: 130px;
+}
+.nav-link{
+  color: white !important;
+}
+.nav-link:hover{
+ 
+  text-decoration:2px  underline white !important;
+  padding-bottom: 4px;
+ 
+}
+
+
+
+
+
+ 

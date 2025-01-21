@@ -1,0 +1,28 @@
+.footer{
+  
+    height: 60px;
+    display: flex;
+    flex-direction: row;
+   
+    background-color: #553D1D;
+}
+.social{
+  
+    margin-left: 170vh;
+    width: 104px;
+height: 44.15px;
+
+}
+.insta ,.face {
+  
+    width: 44.15px;
+    height: 44.15px;
+    color: white;
+  
+}
+.logo img{
+    width: 170px;
+    height: 50px;
+    padding-top: 10px;
+   padding-left: 12px;
+}
