@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/react-sport/static/css/main.9e62054d.css",
+    "main.js": "/react-sport/static/js/main.e05d4289.js",
+    "static/js/453.e4dc594a.chunk.js": "/react-sport/static/js/453.e4dc594a.chunk.js",
+    "static/media/group image.png": "/react-sport/static/media/group image.c63b8499e7f46b8adc4c.png",
+    "static/media/login.png": "/react-sport/static/media/login.1fdb83313969f7ac4103.png",
+    "static/media/bg.png": "/react-sport/static/media/bg.de664d4e31cb75ec5794.png",
+    "static/media/join.png": "/react-sport/static/media/join.70792482f9eaa62b150b.png",
+    "static/media/img3.png": "/react-sport/static/media/img3.1859345882fa532f6187.png",
+    "static/media/img4.png": "/react-sport/static/media/img4.062d71f1afd446037ee5.png",
+    "static/media/img5.png": "/react-sport/static/media/img5.e0b52a7a21df617c1cab.png",
+    "static/media/img2.png": "/react-sport/static/media/img2.8f25c2cbba00cd90eb8e.png",
+    "static/media/img1.png": "/react-sport/static/media/img1.c9cfb9076b155677b5ee.png",
+    "static/media/logo.png": "/react-sport/static/media/logo.f313f08199faeaa064f0.png",
+    "index.html": "/react-sport/index.html",
+    "main.9e62054d.css.map": "/react-sport/static/css/main.9e62054d.css.map",
+    "main.e05d4289.js.map": "/react-sport/static/js/main.e05d4289.js.map",
+    "453.e4dc594a.chunk.js.map": "/react-sport/static/js/453.e4dc594a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9e62054d.css",
+    "static/js/main.e05d4289.js"
+  ]
+}
