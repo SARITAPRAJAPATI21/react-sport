@@ -1,6 +1,6 @@
 
 import './App.scss';
-import { Route,Routes,BrowserRouter} from 'react-router-dom';
+import { Route,Routes,HashRouter} from 'react-router-dom';
 import Navbar from './components/Navbar';
 import Home from './components/Home';
 import Join from './components/Join';
@@ -16,7 +16,7 @@ const App=()=> {
    <>
  <Navbar/>
  
- <BrowserRouter>
+ <HashRouter>
   <Routes>
     <Route path='/' element={<Home/>}></Route>
     <Route path='/login' element={<Login/>}></Route>
@@ -24,7 +24,7 @@ const App=()=> {
     <Route path='/favq' element={<Favq/>}></Route>
     <Route path='/donation' element={<Donation/>}></Route>
   </Routes>
- </BrowserRouter>
+ </HashRouter>
 
  <Footer/>
  
